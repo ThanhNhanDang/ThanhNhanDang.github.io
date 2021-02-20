@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/login/login.jsp=UTF-8
+encoding//WebContent/components/headerBar.jsp=UTF-8
+encoding//WebContent/components/sliderBar.jsp=UTF-8
+encoding//src/com/java10/ConnectionDB/ConnectionDB.java=UTF-8
+encoding//src/com/java10/servlet/LoginServlet.java=UTF-8
